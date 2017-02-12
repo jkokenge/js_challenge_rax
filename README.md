@@ -1,7 +1,7 @@
 Joe Kokenge
 Solution Submitted: 2/12/2017
 
-Task: Your challenge, should you choose to accept it, is to create a web application using any framework you choose. It must be a JavaScript framework and it must follow the user story below.
+*Task: Your challenge, should you choose to accept it, is to create a web application using any framework you choose. It must be a JavaScript framework and it must follow the user story below.
 
 As a user, I would like to have an application that shows a table of information. 
 When the user loads the page, they should see a table presented. 
@@ -18,7 +18,7 @@ A complete solution that addresses the user story
 Things that you can do to WOW us,
 
 Stylistic flair
-Unit testing
+Unit testing*
 
 
 **[Working Demo of Challenge](http://s3.amazonaws.com/joe-kokenge-js-challenge/index.html)**
