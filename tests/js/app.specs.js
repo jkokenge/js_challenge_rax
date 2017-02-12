@@ -27,7 +27,7 @@ describe('Controllers', function(){
 
         }));
 
-        it('Mode should be fun', function(){
+        it('test that framework works should return it works', function(){
             expect(myctrl.testSuiteWorksVar).toBe('it works!');
         });
 
