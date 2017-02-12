@@ -19,3 +19,6 @@ Things that you can do to WOW us,
 
 Stylistic flair
 Unit testing
+
+
+**[Working Demo of Challenge](http://s3.amazonaws.com/joe-kokenge-js-challenge/index.html)**
