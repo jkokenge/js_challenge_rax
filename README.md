@@ -9,8 +9,7 @@ Solution Submitted: 2/12/2017
 >When the user clicks on the header of a table column, it should sort the table. 
 
 >We will be looking for
->Best practices using your chosen framework
->A complete solution that addresses the user story
+>Best practices using your chosen framework and complete solution that addresses the user story
  
 >Things that you can do to WOW us,
 >Stylistic flair
